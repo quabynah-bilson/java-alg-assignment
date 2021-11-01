@@ -3,14 +3,6 @@ package com.assignment;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-/**
- * fixme -> remove this block of comments before submitting the assignment
- * I am using Java 11 JDK for this program so please
- * install it before you execute else it won't compile...lol
- * <p>
- * resources
- * https://stackabuse.com/graphs-in-java-a-star-algorithm
- */
 public class Main {
 
     public static void main(String[] args) {
